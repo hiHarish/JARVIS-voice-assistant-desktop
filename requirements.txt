@@ -1,0 +1,14 @@
+SpeechRecognition
+pyttsx3
+google.generativeai 
+wikipedia
+web-browser
+requests
+psutil
+datetime
+python-time
+regex
+AppOpener 
+pypi-json 
+thread
+pywhatkit
