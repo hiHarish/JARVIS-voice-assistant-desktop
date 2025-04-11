@@ -12,10 +12,6 @@ Jarvis is a smart AI-powered desktop assistant built with Python. It can perform
 - 🧠 Text + Voice command support
 - 💬 Beautiful desktop GUI using Tkinter
 
-## 📸 Screenshot
-
-![Jarvis GUI](https://via.placeholder.com/600x300.png?text=Jarvis+Desktop+Assistant)
-
 ## 🚀 Getting Started
 '''bash
 ├── main.py                  # Entry point with GUI
