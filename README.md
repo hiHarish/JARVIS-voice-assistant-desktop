@@ -12,6 +12,9 @@ Jarvis is a smart AI-powered desktop assistant built with Python. It can perform
 - 🧠 Text + Voice command support
 - 💬 Beautiful desktop GUI using Tkinter
 
+# 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first.
+
 ## 🚀 Getting Started
 '''bash
 ├── main.py                  # Entry point with GUI
@@ -22,7 +25,7 @@ Jarvis is a smart AI-powered desktop assistant built with Python. It can perform
 - Python 3.8+
 - Install required packages:
 ```bash
-pip install -r requirements.txt
 
-# 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first.
+pip install -r requirements.txt
+python frontend.py
+
