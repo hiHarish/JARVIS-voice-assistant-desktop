@@ -64,7 +64,7 @@ def listen_wakeword():
             print("Speech Recognition service error.")
             speak("There is an issue with the speech recognition service.")
 
-genai.configure(api_key="AIzaSyCNuxiuaMWd0KXP9tV4kXahM6wlaObv-MA")           
+genai.configure(api_key="TOUR_GEMINI_API_KEY")           
 chat_history = [
     {"role": "user", "parts": [{"text": "You are a helpful AI assistant. Keep responses short and conversational."}]}
 ]
